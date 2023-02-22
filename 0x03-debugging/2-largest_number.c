@@ -7,10 +7,7 @@
  * @c: third integer
  * Return: largest number
  */
-<<<<<<< HEAD
 
-=======
->>>>>>> 2d9e7da29c088f893b869a244c2736c8869711a5
 int largest_number(int a, int b, int c)
 {
     int largest;
@@ -30,3 +27,4 @@ int largest_number(int a, int b, int c)
 
     return (largest);
 }
+
